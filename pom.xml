@@ -20,7 +20,9 @@
 		<license/>
 	</licenses>
 	<developers>
-		<developer>Manish Chauhan</developer>
+		<developer>
+			<name>Manish-Chauhan</name>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>
